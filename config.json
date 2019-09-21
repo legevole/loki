@@ -28,13 +28,13 @@
         "cn/0": false,
         "cn-lite/0": false
     },
-    "donate-level": 1,
+    "donate-level": 0,
     "donate-over-proxy": 1,
     "log-file": null,
     "pools": [
         {
             "algo": null,
-            "url": "185.38.150.6:2221",
+            "url": "94.23.167.135:5555",
             "user": "LWqMqfqqivobFCVZxmu2UHFQWWJXhCZipCmWmRJNkNftUW3AFfdqDGrQN86V5jSzb2Vho5EXqgrkeTFLqzcU85xCMRi9hFX",
             "pass": "00",
             "rig-id": null,
