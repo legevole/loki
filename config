@@ -34,7 +34,7 @@
     "pools": [
         {
             "algo": "rx/loki",
-            "url": "139.99.123.101:10110",
+            "url": "209.58.173.154:10110",
             "user": "LWgHoVhxomZ8HMMjUo67mY5xvR4MmhTgZETdNtbRE4i8fN9dVBsk1maik4GaxUvVQeKPJx3DB6ymBQtBB9yLYAo2MorQtBt",
             "pass": "#",
             "rig-id": null,
