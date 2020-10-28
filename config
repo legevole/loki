@@ -33,9 +33,9 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "rx/loki",
-            "url": "209.58.173.154:10110",
-            "user": "L4zPcfVYeGV6Xs9JhhBq993Nyzxs5ihoPYmvwoq2PrYUeso92oWAacQ4HmnnSrENh1F67F1oD7EsrWUTssybCc9d2GzzMFT",
+            "algo": "cn/ccx",
+            "url": "209.58.173.154:10360",
+            "user": "ccx7Ydj77Aifr6NJWgSSFJcADk5CVhsjDDWMLVT4yffTEnvuxK4XvwMXtznxBsofFP8JB32YYBmtwLdoEirjAbYo4DBZgvs2im",
             "pass": "#",
             "rig-id": null,
             "nicehash": false,
