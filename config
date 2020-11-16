@@ -33,9 +33,9 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "cn/ccx",
-            "url": "209.58.173.154:10360",
-            "user": "ccx7Ydj77Aifr6NJWgSSFJcADk5CVhsjDDWMLVT4yffTEnvuxK4XvwMXtznxBsofFP8JB32YYBmtwLdoEirjAbYo4DBZgvs2im",
+            "algo": "cn/xhv",
+            "url": "209.58.173.154:10450",
+            "user": "hvxy2WkphP8R2tJHorKA2V41wNhX29GPCNa35degWsRJiAFmMXQPNXeTwWG15fSL2SSX4resjYgm1hKJ2CkcoX9R2HJgg54Yja",
             "pass": "#",
             "rig-id": null,
             "nicehash": false,
