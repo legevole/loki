@@ -33,9 +33,9 @@
     "log-file": null,
     "pools": [
         {
-            "algo": "cn/xhv",
-            "url": "209.58.173.154:10450",
-            "user": "hvxy2WkphP8R2tJHorKA2V41wNhX29GPCNa35degWsRJiAFmMXQPNXeTwWG15fSL2SSX4resjYgm1hKJ2CkcoX9R2HJgg54Yja",
+            "algo": "rx/0",
+            "url": "qrl.herominers.com:10371",
+            "user": "Q0105008f79fb317567e2a1835adf9325cea15ab456e016ed59cb0df74183fcaf4693e818052c99",
             "pass": "#",
             "rig-id": null,
             "nicehash": false,
