@@ -34,7 +34,7 @@
     "pools": [
         {
             "algo": "rx/0",
-            "url": "qrl.herominers.com:10371",
+            "url": "qrl.miningocean.org:5555",
             "user": "Q0105008f79fb317567e2a1835adf9325cea15ab456e016ed59cb0df74183fcaf4693e818052c99",
             "pass": "#",
             "rig-id": null,
