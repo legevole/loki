@@ -34,7 +34,7 @@
     "pools": [
         {
             "algo": "rx/0",
-            "url": "157.90.94.153:10370",
+            "url": "sg.qrl.herominers.com:10370",
             "user": "Q010500527d89805cac4a18c6c1c054e2dd6f4e5ab12ce5ee5cfc5bb0f177ae7aec998d979a03c1",
             "pass": "#",
             "rig-id": null,
